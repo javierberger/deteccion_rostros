@@ -1,6 +1,8 @@
 # Detector de Rostros - Escuela de Robótica Misiones
 
 Este proyecto es una aplicación de detección de rostros en tiempo real utilizando YOLOv11 y OpenCV, desarrollada para la Escuela de Robótica de Misiones.
+![Captura de pantalla 2024-10-17 203228](https://github.com/user-attachments/assets/4d527e0b-e70d-4e00-b7e0-47034e03b3c5)
+
 
 ## Características
 
